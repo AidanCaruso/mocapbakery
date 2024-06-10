@@ -3,7 +3,7 @@
 ### realtime mocap to animation tracks to gltf test
 
 * Open a location
-* (make sure your avatar is zlorp.gltf from Mixamo - hard coded right now b/c I'm lazy)
+* (make sure your avatar is zlorp.gltf from Mixamo or else change baking system's url to your current avatar - hard coded right now b/c I'm lazy)
 * start up mocap
 * flail around
 * close mocap
