@@ -6,8 +6,6 @@
 * close mocap
 * the glb will be exported to a hardcoded project url
 
-* 
-
 ### In-engine mocap
 https://github.com/user-attachments/assets/ec3d6bf9-45d7-45d2-a7ed-bbad2c0dc2f9
 
